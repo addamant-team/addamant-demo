@@ -17,3 +17,13 @@ you can find here the way we use basic MVC concept.
 :open_file_folder: **frontend** 
 
 contain our code examples related to React
+
+Developing frontend we use a lot of different tools but choose tech stack always based on the task.  <br>
+We writing code using functional programming and following SOLID, DRY and KISS patterns. <br>
+If look to details we build our apps with
+
+:tophat: React / Next  <br>
+:magic_wand: Redux for serving client data  <br>
+:globe_with_meridians: React-query for serving server data  <br>
+:grapes: SCSS modules for style handling  <br>
+:iphone: All of our apps supports adaptive / responsive markup and looks good in all of modern browsers  <br>
