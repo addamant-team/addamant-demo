@@ -4,23 +4,25 @@
 
 :open_file_folder: **backend** 
 
-contain our code examples related to laravel framework, <br>
-you can find here the way we use basic MVC concept.
+This section contains examples related to the Laravel framework, so you can see the way we use the basic MVC concept here.<br>
+
+
 
 :heavy_check_mark: Strict Models with all-methods annotation <br>
 :heavy_check_mark: We use fractal transfomers for API endpoints <br>
 :heavy_check_mark: Policies for auth <br>
-:heavy_check_mark: Validate -> Call Abstract action -> Response - the way we design Controllers
+:heavy_check_mark: Validate -> Call Abstract action -> Response - our approach to designing Controllers
 
-:recycle: We use SOLID for architecture design to keep ours app maintained and scalable 
+:recycle: We use SOLID for architecture design to ensure our applications are scalable and maintainable
+
+
 
 :open_file_folder: **frontend** 
 
-contain our code examples related to React
+This section contains examples of our frontend code using React. <br>
 
-Developing frontend we use a lot of different tools but choose tech stack always based on the task.  <br>
-We writing code using functional programming and following SOLID, DRY and KISS patterns. <br>
-If look to details we build our apps with
+We use many different tools, but choose the right stack based on the task. We use functional programming and follow SOLID, DRY, and KISS patterns.
+If you want to know more. Here is what we use to build our apps
 
 :tophat: React / Next  <br>
 :magic_wand: Redux for serving client data  <br>
