@@ -9,7 +9,7 @@ This section contains examples related to the Laravel framework, so you can see 
 
 
 :heavy_check_mark: Strict Models with all-methods annotation <br>
-:heavy_check_mark: We use fractal transfomers for API endpoints <br>
+:heavy_check_mark: We use fractal transformers for API endpoints <br>
 :heavy_check_mark: Policies for auth <br>
 :heavy_check_mark: Validate -> Call Abstract action -> Response - our approach to designing Controllers
 
@@ -21,7 +21,7 @@ This section contains examples related to the Laravel framework, so you can see 
 
 This section contains examples of our frontend code using React. <br>
 
-We use many different tools, but choose the right stack based on the task. We use functional programming and follow SOLID, DRY, and KISS patterns.
+We use many tools, but choose the right stack based on the task. We use functional programming and follow SOLID, DRY, and KISS patterns.
 If you want to know more. Here is what we use to build our apps
 
 :tophat: React / Next  <br>
